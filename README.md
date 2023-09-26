@@ -1,5 +1,3 @@
-**
-
 ## Caracteristicas de GitHub
 
  1. Plataforma para desarrolladores.
